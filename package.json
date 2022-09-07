@@ -1,0 +1,17 @@
+{
+  "name": "mern-ecommerce",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "\t"
+  },
+  "author": "Saad Meer",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1",
+    "mongoose": "^6.5.4",
+    "nodemon": "^2.0.19",
+    "router": "^1.3.7"
+  }
+}
